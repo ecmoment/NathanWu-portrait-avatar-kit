@@ -1,0 +1,38 @@
+Draw Pip — a young character, drawn as an illustration. This is a drawn character in a painted or illustrated style, not a photograph and not a portrait of an actual person. alive and candid. Pip is a person of about 9, with clearly masculine features and presentation.
+Who Pip is. EVERY detail below is required and must be visible:
+• Apparent age: 9 years old (look exactly this age — no older, no younger)
+• Build / presentation: masculine, sharp jaw and high cheekbones, a face with quiet intensity
+• Skin: soft beige
+• Hair: short waves with natural volume on top — coloured icy platinum
+• A distinctive feature: a constellation of light freckles across the nose and cheekbones  ← include this clearly
+• Eyewear: no glasses
+• Wearing: a worn indigo denim jacket
+• Accessory: a watch with a worn leather strap
+• Facial hair: a clean smooth face — no beard
+Pose & emotional tone:
+• Framing: three-quarter angle to the left, head tilted with curiosity, gaze meeting the camera
+• Vibe right now: cool confidence with a slight raised eyebrow, charming and direct
+RENDER STYLE — this defines the artistic identity:
+crisp ink-line illustration with dense gouache washes that build up real depth, magazine-cover feel, inked shadows rather than grey shading.
+Background: cool slate with paper grain.
+LIGHT & VALUE RANGE — this is what gives the portrait weight (highest priority):
+- Render the FULL tonal range. The darkest passages (hair mass, deep folds, the shadow side of the face, the background behind the shoulder) must go to near-black, roughly 5–15% luminance — never stop at grey.
+- Aim for a real contrast spread: dark areas around 15–20% luminance, lit skin around 80–90%, nothing flat in the middle.
+- One clear directional key light from one side, with the opposite side falling into genuine shadow. Not evenly lit, not flat, not selfie-lit.
+- Shadows are shapes with edges, not a global darkening filter. Build them with real pigment/dark line, not by dulling the whole image.
+- At least a quarter of the frame should read as clearly dark. A washed-out, high-key pastel result is a failure.
+Skin & line quality:
+- Skin should look like real skin in honest light — not shiny, not wet, not airbrushed.
+- No makeup highlighter, no glossy lip highlights, no contouring.
+- Line weight should be confident and deliberate, never sketchy or wobbly.
+- Textural grain belongs in the background and clothing, not as highlights on the face.
+Hard rules:
+- Single subject, head-and-shoulders, final square canvas, head horizontally centred for a natural circular crop. Keep the complete head, including all hair and any head-top accessories (glasses, hats, etc.), fully inside the frame and circular crop without clipping. Target top headroom of 7% of the final square canvas height (acceptable range: 6–8%), measured as uninterrupted background from the highest hair strand or head-top accessory, whichever is highest, to the top edge; never measure from the forehead or scalp. Continue the existing background to the edges; do not add a white border.
+- This is Pip, not a stand-in. Lean hard into the specific features above; do not soften them toward an average.
+- Must read as a person of about 9.
+- The pose must feel ALIVE and CANDID — never stiff, never "official headshot", never "model gaze".
+- Distinctive and full of personality — striking features, a real face. Avoid a generic "average face".
+- Respect the gender presentation above; do not contradict it.
+- No nudity, no suggestive styling, no glamour posing.
+- No text. No logos. No background figures. No stock-photo realism. No anime / chibi. No sultry glamour.
+- Should feel like a profile in a magazine that cares who this person is — Kinfolk / Cereal / Refinery29 energy.

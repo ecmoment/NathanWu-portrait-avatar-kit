@@ -1,0 +1,36 @@
+Draw Rin — a young, striking, characterful individual. Beautiful in a distinctive, interesting way (not a generic "model type", not a "professional headshot"). The kind of person you'd notice in a coffee shop because their face has personality. Caught in a candid, playful moment — alive and engaged, not posing stiffly. Rin's gender presentation is intentionally androgynous and refined.
+Who Rin is. EVERY detail below is required and must be visible:
+• Apparent age: 23 years old
+• Build / presentation: softly androgynous, balanced symmetrical features and a kind direct gaze
+• Skin: soft beige
+• Hair: shoulder-length and tucked loosely behind the ears — coloured mossy dark green dyed tint
+• A distinctive feature: a small mole at the corner of the mouth  ← include this clearly
+• Eyewear: no glasses
+• Wearing: a clean white shirt with a soft collar
+• Accessory: a thin silver chain at the neck
+Pose & emotional tone:
+• Framing: leaning forward a little, fresh open gaze
+• Vibe right now: bright open joy, head tilted with delight
+RENDER STYLE — this defines the artistic identity:
+crisp ink-line illustration with dense gouache washes that build up real depth, magazine-cover feel, inked shadows rather than grey shading.
+Background: pale ochre with grain.
+LIGHT & VALUE RANGE — this is what gives the portrait weight (highest priority):
+- Render the FULL tonal range. The darkest passages (hair mass, deep folds, the shadow side of the face, the background behind the shoulder) must go to near-black, roughly 5–15% luminance — never stop at grey.
+- Aim for a real contrast spread: dark areas around 15–20% luminance, lit skin around 80–90%, nothing flat in the middle.
+- One clear directional key light from one side, with the opposite side falling into genuine shadow. Not evenly lit, not flat, not selfie-lit.
+- Shadows are shapes with edges, not a global darkening filter. Build them with real pigment/dark line, not by dulling the whole image.
+- At least a quarter of the frame should read as clearly dark. A washed-out, high-key pastel result is a failure.
+Skin & line quality:
+- Skin should look like real skin in honest light — not shiny, not wet, not airbrushed.
+- No makeup highlighter, no glossy lip highlights, no contouring.
+- Line weight should be confident and deliberate, never sketchy or wobbly.
+- Textural grain belongs in the background and clothing, not as highlights on the face.
+Hard rules:
+- Single subject, head-and-shoulders, final square canvas, head horizontally centred for a natural circular crop. Keep the complete head, including all hair and any head-top accessories (glasses, hats, etc.), fully inside the frame and circular crop without clipping. Target top headroom of 7% of the final square canvas height (acceptable range: 6–8%), measured as uninterrupted background from the highest hair strand or head-top accessory, whichever is highest, to the top edge; never measure from the forehead or scalp. Continue the existing background to the edges; do not add a white border.
+- This is Rin, not a stand-in. Lean hard into the specific features above; do not soften them toward an average.
+- Must read as YOUNG (early 20s to early 30s) — never 35+, never weathered.
+- The pose must feel ALIVE and CANDID — never stiff, never "official headshot", never "model gaze".
+- Beautiful but DISTINCTIVE — striking features, real personality. Avoid generic "average attractive face".
+- Respect the gender presentation above; do not contradict it.
+- No text. No logos. No background figures. No stock-photo realism. No anime / chibi. No sultry glamour.
+- Should feel like a profile in a magazine that cares who this person is — Kinfolk / Cereal / Refinery29 energy.

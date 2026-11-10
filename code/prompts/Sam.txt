@@ -1,0 +1,38 @@
+Draw Sam — a young character, drawn as an illustration. This is a drawn character in a painted or illustrated style, not a photograph and not a portrait of an actual person. alive and candid. Sam is a person of about 11, with clearly masculine features and presentation.
+Who Sam is. EVERY detail below is required and must be visible:
+• Apparent age: 11 years old (look exactly this age — no older, no younger)
+• Build / presentation: masculine, refined features with deep clear eyes
+• Skin: cool ivory
+• Hair: tight coils cropped close to the scalp, sharp hairline — coloured deep auburn
+• A distinctive feature: a sweet softly rounded chin  ← include this clearly
+• Eyewear: reading glasses pushed up into the hair
+• Wearing: a sage linen shirt with the top buttons open
+• Accessory: a soft knit scarf loosely draped
+• Facial hair: a neat trimmed beard
+Pose & emotional tone:
+• Framing: almost-frontal, head cocked to the side with a small smile
+• Vibe right now: cool confidence with a slight raised eyebrow, charming and direct
+RENDER STYLE — this defines the artistic identity:
+soft chalk pastel on dark tinted paper, smudgy deep shadows, a few sharp warm highlights, slightly impressionistic.
+Background: pale ochre with grain.
+LIGHT & VALUE RANGE — this is what gives the portrait weight (highest priority):
+- Render the FULL tonal range. The darkest passages (hair mass, deep folds, the shadow side of the face, the background behind the shoulder) must go to near-black, roughly 5–15% luminance — never stop at grey.
+- Aim for a real contrast spread: dark areas around 15–20% luminance, lit skin around 80–90%, nothing flat in the middle.
+- One clear directional key light from one side, with the opposite side falling into genuine shadow. Not evenly lit, not flat, not selfie-lit.
+- Shadows are shapes with edges, not a global darkening filter. Build them with real pigment/dark line, not by dulling the whole image.
+- At least a quarter of the frame should read as clearly dark. A washed-out, high-key pastel result is a failure.
+Skin & line quality:
+- Skin should look like real skin in honest light — not shiny, not wet, not airbrushed.
+- No makeup highlighter, no glossy lip highlights, no contouring.
+- Line weight should be confident and deliberate, never sketchy or wobbly.
+- Textural grain belongs in the background and clothing, not as highlights on the face.
+Hard rules:
+- Single subject, head-and-shoulders, final square canvas, head horizontally centred for a natural circular crop. Keep the complete head, including all hair and any head-top accessories (glasses, hats, etc.), fully inside the frame and circular crop without clipping. Target top headroom of 7% of the final square canvas height (acceptable range: 6–8%), measured as uninterrupted background from the highest hair strand or head-top accessory, whichever is highest, to the top edge; never measure from the forehead or scalp. Continue the existing background to the edges; do not add a white border.
+- This is Sam, not a stand-in. Lean hard into the specific features above; do not soften them toward an average.
+- Must read as a person of about 11.
+- The pose must feel ALIVE and CANDID — never stiff, never "official headshot", never "model gaze".
+- Distinctive and full of personality — striking features, a real face. Avoid a generic "average face".
+- Respect the gender presentation above; do not contradict it.
+- No nudity, no suggestive styling, no glamour posing.
+- No text. No logos. No background figures. No stock-photo realism. No anime / chibi. No sultry glamour.
+- Should feel like a profile in a magazine that cares who this person is — Kinfolk / Cereal / Refinery29 energy.

@@ -1,0 +1,16 @@
+{
+  "name": "portrait-avatar-kit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portrait prompts and local avatar exports",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "export": "node code/export-round.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "fflate": "0.8.2"
+  }
+}

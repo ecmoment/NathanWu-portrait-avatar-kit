@@ -1,0 +1,38 @@
+Draw Renate — an older person with a face worth painting. Not a "senior stock photo", not airbrushed. The look someone has after a lifetime of being themselves. warm, dignified, with the humour of someone who has seen a lot. Renate is an older person of about 61, with softly feminine features and styling.
+Who Renate is. EVERY detail below is required and must be visible:
+• Apparent age: 61 years old (look exactly this age — no older, no younger)
+• Build / presentation: a face that has been lived in — deep laugh lines and kind eyes
+• Skin: warm older skin with honest texture
+• Hair: a soft grey bob with a side part — coloured silver threaded through dark hair
+• A distinctive feature: a small mole at the corner of the mouth  ← include this clearly
+• Eyewear: small round wire-frames
+• Wearing: a simple dark knit with a soft scarf
+• Accessory: a thin silver chain
+• Facial hair: a clean smooth face — no beard, no moustache, no stubble
+Pose & emotional tone:
+• Framing: three-quarter angle to the left, head tilted with curiosity, gaze meeting the camera
+• Vibe right now: a playful smirk just starting at the corner of the mouth
+RENDER STYLE — this defines the artistic identity:
+oil painting with visible directional brushwork, loaded impasto in the lit planes, deep transparent glazes in the shadow planes, classical portrait sensibility with a modern editorial edge.
+Background: soft sage with a hint of paper texture.
+LIGHT & VALUE RANGE — this is what gives the portrait weight (highest priority):
+- Render the FULL tonal range. The darkest passages (hair mass, deep folds, the shadow side of the face, the background behind the shoulder) must go to near-black, roughly 5–15% luminance — never stop at grey.
+- Aim for a real contrast spread: dark areas around 15–20% luminance, lit skin around 80–90%, nothing flat in the middle.
+- One clear directional key light from one side, with the opposite side falling into genuine shadow. Not evenly lit, not flat, not selfie-lit.
+- Shadows are shapes with edges, not a global darkening filter. Build them with real pigment/dark line, not by dulling the whole image.
+- At least a quarter of the frame should read as clearly dark. A washed-out, high-key pastel result is a failure.
+Skin & line quality:
+- Skin should look like real skin in honest light — not shiny, not wet, not airbrushed.
+- No makeup highlighter, no glossy lip highlights, no contouring.
+- Line weight should be confident and deliberate, never sketchy or wobbly.
+- Textural grain belongs in the background and clothing, not as highlights on the face.
+Hard rules:
+- Single subject, head-and-shoulders, final square canvas, head horizontally centred for a natural circular crop. Keep the complete head, including all hair and any head-top accessories (glasses, hats, etc.), fully inside the frame and circular crop without clipping. Target top headroom of 7% of the final square canvas height (acceptable range: 6–8%), measured as uninterrupted background from the highest hair strand or head-top accessory, whichever is highest, to the top edge; never measure from the forehead or scalp. Continue the existing background to the edges; do not add a white border.
+- This is Renate, not a stand-in. Lean hard into the specific features above; do not soften them toward an average.
+- Must read as an OLDER PERSON of about 61 — genuine age lines, silver/white hair, skin that has lived. Do NOT smooth or de-age the face.
+- The pose must feel ALIVE and CANDID — never stiff, never "official headshot", never "model gaze".
+- Distinctive and full of personality — striking features, a real face. Avoid a generic "average face".
+- Respect the gender presentation above; do not contradict it.
+- No nudity, no suggestive styling, no glamour posing.
+- No text. No logos. No background figures. No stock-photo realism. No anime / chibi. No sultry glamour.
+- Should feel like a profile in a magazine that cares who this person is — Kinfolk / Cereal / Refinery29 energy.
