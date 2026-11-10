@@ -1,4 +1,4 @@
-# Portrait Avatar Kit
+# NathanWu Portrait Avatar Kit
 
 **24 distinctive illustrated portraits, ready-to-use avatar assets, and a reproducible local export toolkit.**
 
@@ -20,7 +20,7 @@
 | 标准方形头像 | 24 张 512 × 512 PNG | [查看方图](outputs/portraits/avatar-512/) |
 | 透明圆形头像 | 每人 256 × 256 和 64 × 64 PNG | [查看圆图](outputs/portraits/avatar-round/) |
 | 集合总览 | 带人物名字的圆形头像一览 | [打开总览大图](outputs/portraits/contact-sheet-round.png) |
-| 打包下载 | 512 方图、两种圆图及总览，共 73 项 | [下载头像包](https://github.com/ecmoment/portrait-avatar-kit/raw/refs/heads/main/outputs/portraits/avatars-512.zip) |
+| 打包下载 | 512 方图、两种圆图及总览，共 73 项 | [下载头像包](https://github.com/ecmoment/NathanWu-portrait-avatar-kit/raw/refs/heads/main/outputs/portraits/avatars-512.zip) |
 
 > ZIP 文件名沿用 `avatars-512.zip`，实际同时包含圆图和总览。原始 1254px 图片单独保存在 `full/` 中；需要全部代码、提示词与原图，可使用 GitHub 的 **Code → Download ZIP**。
 
@@ -47,8 +47,8 @@
 需要 **Node.js 20+** 和 npm。
 
 ```bash
-git clone https://github.com/ecmoment/portrait-avatar-kit.git
-cd portrait-avatar-kit
+git clone https://github.com/ecmoment/NathanWu-portrait-avatar-kit.git
+cd NathanWu-portrait-avatar-kit
 npm ci
 ```
 
@@ -127,4 +127,8 @@ npm test
 
 ## 授权 / Licensing
 
-本仓库目前未指定开源许可证。代码与图像未通过本仓库授予额外的使用、修改或再分发许可；第三方依赖遵循各自许可证，模型生成图片的使用同时受相应服务条款约束。
+本项目的代码、提示词和头像素材采用 **[MIT License](LICENSE)**。大家都可以免费使用、复制、修改、分享和用于商业项目，无需另行申请许可；分发本项目或其重要部分时，请保留版权声明和 MIT 许可文本。
+
+Code, prompts, and avatar assets are available under the **MIT License**: free for personal and commercial use, modification, and redistribution, with the copyright and license notice retained.
+
+Copyright © 2026 NathanWu. 第三方依赖仍遵循各自许可证；图像模型服务的相关条款仍适用。本项目按原样提供，不作担保。
